@@ -1,4 +1,4 @@
-# Hospital Database System
+# Hospital Database Management System
 
 ## Overview
 This project contains SQL scripts for a Hospital Database System, designed to manage and query information related to nurses, physicians, patients, appointments, rooms, and procedures within a hospital.
